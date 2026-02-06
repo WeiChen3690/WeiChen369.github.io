@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chen Wei（陈炜）"
   avatar           : "xx"
-  bio              : "xx College"
+  bio              : "Guilin University of Electronic Science and Technology"
   location         : "GuiLin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=1xLlnhYAAAAJ&hl=zh-CN"
-  email            : "w_chen369@163.com"
+  email            : "w_chen369@163.com or w_chen@guet.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
